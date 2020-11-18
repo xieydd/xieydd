@@ -5,7 +5,7 @@
 - 🌱 I’m currently study multi-modal video generation and contribute to [fluid](https://github.com/fluid-cloudnative/fluid).
 - 📫  Contact me if you have any problem:  xieydd@gmail.com.
 
-[![Yuandong Xie's github stats](https://github-readme-stats.vercel.app/api?username=xieydd)](https://github.com/wonderflow)
+[![Yuandong Xie's github stats](https://github-readme-stats.vercel.app/api?username=xieydd)](https://github.com/xieydd)
 <!--
 **xieydd/xieydd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
