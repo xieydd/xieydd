@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Unisound](https://www.unisound.com/).
+- 🔭 I’m currently working on [Tencent Cloud](https://cloud.tencent.com/), before in [Unisound](https://www.unisound.com/).
 - 👀 I am interested in deep learning and cloud native.
 - 🌱 I’m currently study multi-modal video generation and contribute to [fluid](https://github.com/fluid-cloudnative/fluid).
 - 📫  Contact me if you have any problem:  xieydd@gmail.com.
