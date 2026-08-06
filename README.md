@@ -1,17 +1,19 @@
 # Hi, I'm xieydd 👋
 
-🔭 **MLOps & FinOps** | ☁️ **Cloud Native** | 🚀 **Open Source Contributor**
+☁️ **Cloud Infrastructure & Core Runtime** | 🤖 **Agent Infrastructure** | 🚀 **Open Source Contributor**
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cloud Native](https://img.shields.io/badge/-Cloud_Native-000000?style=flat-square&logo=cloud&logoColor=white)
+![KVM](https://img.shields.io/badge/-KVM-FF6600?style=flat-square&logo=linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> I am interested in deep learning, cloud native and serverless. Currently working on [TensorChord](https://github.com/tensorchord).
+> Member of Technical Staff at [Runta](https://runta.com/), building cloud infrastructure and core runtime systems for stateful, isolated AI agents.
 
 ## Open Source & Projects
 
@@ -26,9 +28,10 @@
 
 ## Experience
 
-- **[TensorChord](https://github.com/tensorchord)** (Current)
-- **[Unisound](https://www.unisound.com/)** (Former)
+- **[Runta](https://runta.com/)** - Member of Technical Staff, Cloud Infrastructure & Core Runtime (Current)
+- **[TensorChord](https://github.com/tensorchord)** - Cloud Team Leader (Former)
 - **[Tencent Cloud](https://cloud.tencent.com/)** (Former)
+- **[Unisound](https://www.unisound.com/)** (Former)
 
 ## Connect
 
